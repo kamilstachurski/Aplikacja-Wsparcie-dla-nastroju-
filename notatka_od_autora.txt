@@ -1,0 +1,14 @@
+"Wsparcie dla nastroju"
+
+Aplikacja do codziennego monitorowania nastroju, ćwiczeń relaksacyjnych i motywacji.
+
+Instrukcja uruchomienia:
+
+1. Otwórz projekt w środowisku programistycznym dla języka Python, np. PyCharm.
+2. Zainstaluj wszystkie potrzebne biblioteki:
+   - streamlit: pip install streamlit
+   - pandas: pip install pandas
+   - matplotlib: pip install matplotlib
+   - streamlit-cookies-manager: pip install streamlit-cookies-manager
+3. Uruchom program, wpisując w terminalu:
+   streamlit run app.py
